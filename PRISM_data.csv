@@ -1,13 +1,3 @@
-PRISM Time Series Data
-Location:  Lat: 35.8513   Lon: -116.2408   Elev: 496m
-"Climate variables: ppt,tmean"
-Spatial resolution: 4km
-Period: 1981-01-01 - 2021-01-01
-Dataset: AN81d
-PRISM day definition: 24 hours ending at 1200 UTC on the day shown
-Grid Cell Interpolation: Off
-Time series generated: 2021-Jul-21
-Details: http://www.prism.oregonstate.edu/documents/PRISM_datasets.pdf
 Date,ppt (mm),tmean (degrees C)
 1981-01-01,0.00,13.0
 1981-01-02,0.00,13.5
